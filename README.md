@@ -12,3 +12,5 @@
 - Install of next project
 - Cleaned up project
 - Install of dependencies ( shadcn, react spinners )
+- Install UI Kit fonts - colors - containers - favicon
+- Install seo
