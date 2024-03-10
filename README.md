@@ -5,3 +5,10 @@
 - demo : https://www.robots-sass.netlify.app
 
 - github : https://github.com/sylvaincodes/robot/tree/master
+
+
+# Dev steps
+
+- Install of next project
+- Cleaned up project
+- Install of dependencies ( shadcn, react spinners )
